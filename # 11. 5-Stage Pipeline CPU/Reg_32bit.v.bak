@@ -1,0 +1,12 @@
+`timescale 1ns/1ns
+module Reg_32bit( clk, rst, en_reg, in, out );
+
+    input clk, rst, en_reg;
+    input[31:0]	in;
+    output[31:0] out;
+
+    reg [31:0] out;
+   
+    assign out = sel ? in1 : in0;
+
+endmodule
