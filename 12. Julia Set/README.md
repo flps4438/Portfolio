@@ -1,6 +1,6 @@
 # 12. Julia Set
 ##### 使用工具：
-Verilog
+ARM Assembly
 ##### 搭配課程：
 組合語言與嵌入式系統
 ##### 簡介：
