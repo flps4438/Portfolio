@@ -1,6 +1,6 @@
 # Portfolio
 
-**這是中原大學資訊工程學系 林威成 的作品集 **
+** 這是中原大學資訊工程學系 林威成 的作品集 **
 
 ## 目錄
 #### 01. OurScheme interpreter
@@ -15,7 +15,7 @@
 #### 10. 有限狀態機(FSM)模擬自動販賣機
 #### 11. 5-Stage Pipeline CPU
 #### 12. Julia Set
-
+[========]
 ## 各項說明
 #### 01. OurScheme interpreter
 ##### 使用工具：
@@ -26,7 +26,7 @@ JAVA
 一個約5000行的Scheme直譯器，可執行基礎的 Scheme程式。
 ##### 附註：
 需搭配 HsiaNB50Lib.jar 使用
-
+[========]
 #### 02. 防疫貼紙 APP
 ##### 使用工具：
 JAVA
@@ -37,7 +37,7 @@ JAVA
 並在後期整合政府防疫簡訊的QRcode，讓使用者可以掃完QRcode便自動送出防疫簡訊至1922。
 ##### 附註：
 於2021/08因重灌電腦不慎遺失原始碼，不過系統仍正常運行中。[APK下載](https://drive.google.com/file/d/1tLmMfm7HpIjLDv18qKxZdAAj6NlTSbam/view?usp=sharing "防疫貼紙")
-
+[========]
 #### 03. 學生成績預測
 ##### 使用工具：
 Python
@@ -48,7 +48,7 @@ Python
 透過使用者輸入相關資料預測學生未來成績，並獲取模型訓練分析報告。
 ##### 附註：
 由於網頁、LINE BOT有流量限制，因此僅附上程式碼
-
+[========]
 #### 04. 社團資料管理系統 APP
 ##### 使用工具：
 JAVA
