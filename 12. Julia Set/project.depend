@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1575404764 source:/home/pi/Desktop/project/id.s
+
+1575336611 source:/home/pi/Desktop/project/name.s
+
+1575304707 source:/home/pi/Desktop/project/main.cpp
+	<iostream>
+
+1575336618 source:/home/pi/Desktop/project/main.s
+
